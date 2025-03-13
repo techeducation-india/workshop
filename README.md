@@ -35,7 +35,8 @@ def hello():
 - **Image:** `![Alt Text](image_url)`
 
 Example:
-```md
+```
+md
 [Visit GitHub](https://github.com)
 
 ![Logo](https://example.com/logo.png)
@@ -68,7 +69,8 @@ A brief project description.
 - ⚡ Feature 3
 
 ## Installation
-```bash
+```
+bash
 git clone https://github.com/user/repo.git
 cd repo
 npm install
