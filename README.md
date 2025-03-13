@@ -21,12 +21,12 @@ md
   - Subitem 2.1
   - Subitem 2.2
 
-
+---
 ```
 python
 def hello():
     print("Hello, World!")
----
+
 
 ## 6. **Links & Images**
 - **Link:** `[Text](https://example.com)`
