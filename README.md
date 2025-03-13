@@ -8,8 +8,7 @@ Instruction for installation and configuration tools and software for workshop.
 
 ## 2. **Headings**
 Use `#` for headings:
-```
-md
+
 # H1 - Main Title
 ## H2 - Section
 ### H3 - Subsection
