@@ -69,7 +69,7 @@ A brief project description.
 - ⚡ Feature 3
 ```
 ## Installation
-
+```
 bash
 git clone https://github.com/user/repo.git
 cd repo
