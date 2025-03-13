@@ -26,8 +26,6 @@ md
 python
 def hello():
     print("Hello, World!")
-
-
 ---
 
 ## 6. **Links & Images**
