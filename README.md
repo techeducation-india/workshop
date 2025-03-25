@@ -14,7 +14,7 @@ This hands-on DevOps Workshop is designed to provide participants with a deep un
 - IT Managers
 - Anyone interested in streamlining software development and deployment
 
-## 2. **Key Topics Covered:**
+## 3. **Key Topics Covered:**
 - Introduction to DevOps
     - Understanding DevOps culture and practices
     - Benefits of DevOps for organizations
