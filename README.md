@@ -14,6 +14,20 @@ This hands-on DevOps Workshop is designed to provide participants with a deep un
 - IT Managers
 - Anyone interested in streamlining software development and deployment
 
+## 2. **Key Topics Covered:**
+- Introduction to DevOps
+    - Understanding DevOps culture and practices
+    - Benefits of DevOps for organizations
+- Version Control & Collaboration
+    - Using Git and GitHub/GitLab for code collaboration
+    - Branching strategies and pull requests
+- Continuous Integration (CI) & Continuous Deployment (CD)
+    - Setting up CI/CD pipelines using Jenkins, GitHub Actions, or GitLab CI/CD
+    - Automated testing and deployment strategies
+- Containerization & Orchestration
+    - Docker fundamentals and best practices
+    - Kubernetes for container orchestration
+
 # H1 - Main Title
 ## H2 - Section
 ### H3 - Subsection
