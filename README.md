@@ -1,13 +1,16 @@
 # Workshop Instructions
 
 ## Description
-Instruction for installation and configuration tools and software for workshop.
-
+This hands-on DevOps Workshop is designed to provide participants with a deep understanding of DevOps principles, tools, and best practices. The workshop covers key aspects such as continuous integration (CI), continuous deployment (CD), automation, monitoring, and collaboration between development and operations teams.
 
 ---
 
-## 2. **Headings**
-Use `#` for headings:
+## 2. **Who Should Attend?**
+- Software Developers
+- System Administrators
+- DevOps Engineers
+- IT Managers
+- Anyone interested in streamlining software development and deployment
 
 # H1 - Main Title
 ## H2 - Section
