@@ -1,8 +1,7 @@
 # Workshop Instructions
 
 ## Description
-This hands-on DevOps Workshop is designed to provide participants with a deep understanding of DevOps principles, tools, and best practices. The workshop covers key aspects such as continuous integration (CI), continuous deployment (CD), automation, monitoring, and collaboration between development and operations teams.
-
+The TechEducation Workshop is an intensive, hands-on training program designed for professionals in Software Engineering, DevOps, Data Science, AI/ML, and Database Engineering. This workshop brings together key concepts, tools, and best practices from each discipline, enabling participants to build scalable, secure, and efficient tech solutions.
 ---
 
 ## 2. **Who Should Attend?**
