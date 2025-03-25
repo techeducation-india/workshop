@@ -6,6 +6,8 @@ This hands-on DevOps Workshop is designed to provide participants with a deep un
 ---
 
 ## 2. **Who Should Attend?**
+- Pursuing Technical Education (like. B-tech,Diploma,Graduation )
+- Software Engineer (Freshers)
 - Software Developers
 - System Administrators
 - DevOps Engineers
