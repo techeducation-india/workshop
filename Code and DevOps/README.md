@@ -59,3 +59,4 @@ Are you interested in learning how software development and IT operations work t
 ### 4.**Hands-on: Git basics (init, clone, commit, push, pull)**
 ### 5.**Hands-on: Git,Docker,Jenkins**
 ### 6.**Hands-on: Setting up a basic CI/CD pipeline**
+### 7.**Hands-on: Deploy and Running applications in Docker**
