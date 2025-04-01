@@ -50,12 +50,12 @@ Are you interested in learning how software development and IT operations work t
     - Hands-on: Running applications in Docker
 ---
 # Workshop: Instruction
-## 1.**Installation Software**
-## 2.**Configuration Of Tools**
-## 3.**Hands-on : Visual Studio Setup and Writing and executing simple code **
-## 4.**Hands-on: Git basics (init, clone, commit, push, pull)**
-## 5.**Hands-on: Git,Docker,Jenkins**
-## 6.**Hands-on: Setting up a basic CI/CD pipeline**
+### 1.**Installation Software**
+### 2.**Configuration Of Tools**
+### 3.**Hands-on : Visual Studio Setup and Writing and executing simple code**
+### 4.**Hands-on: Git basics (init, clone, commit, push, pull)**
+### 5.**Hands-on: Git,Docker,Jenkins**
+### 6.**Hands-on: Setting up a basic CI/CD pipeline**
 
 
 
