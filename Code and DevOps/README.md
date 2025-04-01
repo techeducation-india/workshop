@@ -24,6 +24,11 @@ Are you interested in learning how software development and IT operations work t
 - GIT : [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
 
 
+| Software  | Link |
+|-----------|------|
+| GIT       | [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
+   | 
+
 ## **Key Topics Covered:**
 - 🔥 Introduction to Coding
     - Understanding programming basics (variables, loops, functions)
