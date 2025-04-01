@@ -17,12 +17,11 @@
 
 ### - Minimun 8 GB RAM with Core I3 Processor Laptop
 ### - Below Softwares To be download :
-md
- Visit Studio Code : [Download Link](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
-  - Java 17	: https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.msi
-  - jenkins : https://get.jenkins.io/windows-stable/2.492.2/jenkins.msi
-  - Docker :  https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*z7jdrt*_ga*MjI0MTMyNzYyLjE2ODI3MDIyMzQ.*_ga_XJWPQMJYHQ*MTc0MzM1OTQ4NC40OC4xLjE3NDMzNTk0ODcuNTcuMC4w
-  - GIT : https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe
+- Visit Studio Code : [Download here](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+- Java 17	: [Download here](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.msi)
+- jenkins : [Download here](https://get.jenkins.io/windows-stable/2.492.2/jenkins.msi)
+- Docker :  [Download here](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*z7jdrt*_ga*MjI0MTMyNzYyLjE2ODI3MDIyMzQ.*_ga_XJWPQMJYHQ*MTc0MzM1OTQ4NC40OC4xLjE3NDMzNTk0ODcuNTcuMC4w)
+- GIT : [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
 
 
 ## 4. **Key Topics Covered:**
