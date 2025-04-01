@@ -58,13 +58,6 @@ Are you interested in learning how software development and IT operations work t
 ### 6.**Hands-on: Setting up a basic CI/CD pipeline**
 
 
-
-```
-python
-def hello():
-    print("Hello, World!")
-
-
 ## 6. **Links & Images**
 - **Link:** `[Text](https://example.com)`
 - **Image:** `![Alt Text](image_url)`
