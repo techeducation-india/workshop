@@ -3,17 +3,17 @@
 - Level: Beginner
 - Format: In-person/Online
 
-## Description 
+## ** Description **
 
 #### Are you interested in learning how software development and IT operations work together? This beginner-friendly workshop introduces you to the fundamentals of coding and DevOps, equipping you with essential skills to streamline software development and deployment.
 
-## 2. What You'll Learn:
+## ** What You'll Learn: **
 - Introduction to Coding: Basics of programming languages, version control, and best practices.
 - DevOps Fundamentals: Understanding CI/CD pipelines, automation, and containerization.
 - Hands-on Practice: Writing simple code, using Git, and deploying applications efficiently.
 - Tools & Technologies: Overview of Visual Studio Code, Git, Docker, Jenkins, and Chat GPT.
 
-## 3. **Basic Requirement and Software Requirements**
+## **Basic Requirement and Software Requirements**
 
 ### - Minimun 8 GB RAM with Core I3 Processor Laptop
 ### - Below Softwares To be download :
@@ -24,7 +24,7 @@
 - GIT : [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
 
 
-## 4. **Key Topics Covered:**
+## **Key Topics Covered:**
 - 🔥 Introduction to Coding
     - Understanding programming basics (variables, loops, functions)
     - Overview of common programming languages (Python, JavaScript, Node etc.)
