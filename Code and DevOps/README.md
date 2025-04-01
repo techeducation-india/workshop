@@ -24,29 +24,29 @@ Format: In-person/Online
 
 
 ## 3. **Key Topics Covered:**
-- Introduction to DevOps
-    - Understanding DevOps culture and practices
-    - Benefits of DevOps for organizations
-- Version Control & Collaboration
-    - Using Git and GitHub/GitLab for code collaboration
-    - Branching strategies and pull requests
-- Continuous Integration (CI) & Continuous Deployment (CD)
-    - Setting up CI/CD pipelines using Jenkins, GitHub Actions, or GitLab CI/CD
-    - Automated testing and deployment strategies
-- Containerization & Orchestration
-    - Docker fundamentals and best practices
-    - Kubernetes for container orchestration
-
-# H1 - Main Title
-## H2 - Section
-### H3 - Subsection
-#### H4 - Smaller Header
-
-## 3.Unordered List:
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+- 🔥 Introduction to Coding
+    - Understanding programming basics (variables, loops, functions)
+    - Overview of common programming languages (Python, JavaScript, Node etc.)
+    - Writing and executing simple code
+    - Best practices in coding and debugging
+- 🔥 Version Control with Git & GitHub
+    - What is version control and why it matters?
+    - Git basics (init, clone, commit, push, pull)
+    - Branching, merging, and resolving conflicts
+    - Collaboration using GitHub
+- 🔥 Introduction to DevOps
+    - What is DevOps and why is it important?
+    - The DevOps lifecycle and key principles
+    - Differences between traditional IT and DevOps culture
+- 🔥 CI/CD (Continuous Integration & Continuous Deployment)
+    - Understanding CI/CD pipelines
+    - Tools for automation (Jenkins, GitHub Actions etc.)
+    - Hands-on: Setting up a basic CI/CD pipeline
+- 🔥Containerization with Docker
+    - What is Docker and why use it?
+    - Creating and managing Docker containers
+    - Docker Compose for multi-container applications
+    - Hands-on: Running applications in Docker
 
 ---
 ```
