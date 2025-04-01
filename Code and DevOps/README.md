@@ -3,11 +3,11 @@
 - Level: Beginner
 - Format: In-person/Online
 
-## ** Description **
+## **Description**
 
 #### Are you interested in learning how software development and IT operations work together? This beginner-friendly workshop introduces you to the fundamentals of coding and DevOps, equipping you with essential skills to streamline software development and deployment.
 
-## ** What You'll Learn: **
+## **What You'll Learn:**
 - Introduction to Coding: Basics of programming languages, version control, and best practices.
 - DevOps Fundamentals: Understanding CI/CD pipelines, automation, and containerization.
 - Hands-on Practice: Writing simple code, using Git, and deploying applications efficiently.
