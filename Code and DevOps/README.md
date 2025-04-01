@@ -17,7 +17,7 @@ Format: In-person/Online
 
 ### - Minimun 8 GB RAM with Core I3 Processor Laptop
 ### - Below Softwares To be download ;
-  - [Visit Studio Code] : (https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+[Visit Studio Code] : (https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
   - Java 17	: https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.msi
   - jenkins : https://get.jenkins.io/windows-stable/2.492.2/jenkins.msi
   - Docker :  https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*z7jdrt*_ga*MjI0MTMyNzYyLjE2ODI3MDIyMzQ.*_ga_XJWPQMJYHQ*MTc0MzM1OTQ4NC40OC4xLjE3NDMzNTk0ODcuNTcuMC4w
