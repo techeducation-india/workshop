@@ -1,4 +1,4 @@
-# Workshop: Introduction to Code and DevOps
+# Workshop: Introduction to Coding and DevOps
 - Duration: 3 Hrs
 - Level: Beginner
 - Format: In-person/Online
