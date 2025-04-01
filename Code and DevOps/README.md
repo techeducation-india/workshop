@@ -62,9 +62,6 @@ Are you interested in learning how software development and IT operations work t
 - **Link:** `[Text](https://example.com)`
 - **Image:** `![Alt Text](image_url)`
 
-Example:
-```
-md
 [Visit GitHub](https://github.com)
 
 ![Logo](https://example.com/logo.png)
