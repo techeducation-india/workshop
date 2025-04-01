@@ -24,10 +24,14 @@ Are you interested in learning how software development and IT operations work t
 - GIT : [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
 
 
-| Software  | Link |
-|-----------|------|
-| GIT       | [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
-   | 
+| Name  | Version | Link    |
+|-------|---------|---------|
+| Visit Studio Code | 1.98.2  | [Download here](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)     |
+| Java  | 17  | [Download here](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.msi)  |
+| Jenkins   | 2.492.2  | [Download here](https://get.jenkins.io/windows-stable/2.492.2/jenkins.msi)  |
+| GIT   | v2.49.0  | [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)  |
+| Docker   | 27.5.1  | [Download here](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*z7jdrt*_ga*MjI0MTMyNzYyLjE2ODI3MDIyMzQ.*_ga_XJWPQMJYHQ*MTc0MzM1OTQ4NC40OC4xLjE3NDMzNTk0ODcuNTcuMC4w)  |
+
 
 ## **Key Topics Covered:**
 - 🔥 Introduction to Coding
