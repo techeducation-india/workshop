@@ -13,9 +13,10 @@ Format: In-person/Online
 - Hands-on Practice: Writing simple code, using Git, and deploying applications efficiently.
 - Tools & Technologies: Overview of Visual Studio Code, Git, Docker, Jenkins, and Chat GPT.
 
-## 2. **Basic Requirement and Software Requirements**
-- Minimun 8 GB RAM with Core I3 Processor Laptop
-- Below Softwares To be download ;
+## 3. **Basic Requirement and Software Requirements**
+
+### - Minimun 8 GB RAM with Core I3 Processor Laptop
+### - Below Softwares To be download ;
   - Visual Studio code : https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
   - Java 17	: https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.msi
   - jenkins : https://get.jenkins.io/windows-stable/2.492.2/jenkins.msi
@@ -23,26 +24,26 @@ Format: In-person/Online
   - GIT : https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe
 
 
-## 3. **Key Topics Covered:**
-### - 🔥 Introduction to Coding
+## 4. **Key Topics Covered:**
+- 🔥 Introduction to Coding
     - Understanding programming basics (variables, loops, functions)
     - Overview of common programming languages (Python, JavaScript, Node etc.)
     - Writing and executing simple code
     - Best practices in coding and debugging
-### - 🔥 Version Control with Git & GitHub
+- 🔥 Version Control with Git & GitHub
     - What is version control and why it matters?
     - Git basics (init, clone, commit, push, pull)
     - Branching, merging, and resolving conflicts
     - Collaboration using GitHub
-### - 🔥 Introduction to DevOps
+- 🔥 Introduction to DevOps
     - What is DevOps and why is it important?
     - The DevOps lifecycle and key principles
     - Differences between traditional IT and DevOps culture
-### - 🔥 CI/CD (Continuous Integration & Continuous Deployment)
+- 🔥 CI/CD (Continuous Integration & Continuous Deployment)
     - Understanding CI/CD pipelines
     - Tools for automation (Jenkins, GitHub Actions etc.)
     - Hands-on: Setting up a basic CI/CD pipeline
-### - 🔥Containerization with Docker
+- 🔥Containerization with Docker
     - What is Docker and why use it?
     - Creating and managing Docker containers
     - Docker Compose for multi-container applications
