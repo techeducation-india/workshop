@@ -1,7 +1,7 @@
 # Workshop: Introduction to Code and DevOps
-Duration: 3 Hrs
-Level: Beginner
-Format: In-person/Online
+- Duration: 3 Hrs
+- Level: Beginner
+- Format: In-person/Online
 
 ## Description 
 
@@ -16,7 +16,8 @@ Format: In-person/Online
 ## 3. **Basic Requirement and Software Requirements**
 
 ### - Minimun 8 GB RAM with Core I3 Processor Laptop
-### - Below Softwares To be download ;
+### - Below Softwares To be download :
+md
 [Visit Studio Code] : (https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
   - Java 17	: https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.msi
   - jenkins : https://get.jenkins.io/windows-stable/2.492.2/jenkins.msi
