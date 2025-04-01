@@ -24,25 +24,25 @@ Format: In-person/Online
 
 
 ## 3. **Key Topics Covered:**
-- 🔥 Introduction to Coding
+### - 🔥 Introduction to Coding
     - Understanding programming basics (variables, loops, functions)
     - Overview of common programming languages (Python, JavaScript, Node etc.)
     - Writing and executing simple code
     - Best practices in coding and debugging
-- 🔥 Version Control with Git & GitHub
+### - 🔥 Version Control with Git & GitHub
     - What is version control and why it matters?
     - Git basics (init, clone, commit, push, pull)
     - Branching, merging, and resolving conflicts
     - Collaboration using GitHub
-- 🔥 Introduction to DevOps
+### - 🔥 Introduction to DevOps
     - What is DevOps and why is it important?
     - The DevOps lifecycle and key principles
     - Differences between traditional IT and DevOps culture
-- 🔥 CI/CD (Continuous Integration & Continuous Deployment)
+### - 🔥 CI/CD (Continuous Integration & Continuous Deployment)
     - Understanding CI/CD pipelines
     - Tools for automation (Jenkins, GitHub Actions etc.)
     - Hands-on: Setting up a basic CI/CD pipeline
-- 🔥Containerization with Docker
+### - 🔥Containerization with Docker
     - What is Docker and why use it?
     - Creating and managing Docker containers
     - Docker Compose for multi-container applications
