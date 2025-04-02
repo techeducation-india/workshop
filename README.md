@@ -42,16 +42,8 @@
     - Pathways for further learning and certification
 ---
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-
-## Contents
-
-- [Getting Started](docs/getting-started.md)
-- [Installation Guide](docs/installation.md)
-- [User Guide](docs/usage.md)
-- [Troubleshooting](docs/troubleshooting.md)
-
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help improve these docs.
+See [CONTRIBUTING.md](coding_and_devops/CONTRIBUTING.md) for how to help improve these docs.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
