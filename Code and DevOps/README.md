@@ -66,7 +66,7 @@ Are you interested in learning how software development and IT operations work t
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This repository contains all documentation and instructions for [Project Name].
+This repository contains all documentation and instructions for Workshop.
 
 ## Contents
 
