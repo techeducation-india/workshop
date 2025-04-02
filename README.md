@@ -4,10 +4,10 @@
 
 #### The TechEducation Workshop is an intensive, hands-on training program designed for professionals in Software Engineering, DevOps, Data Science, AI/ML, and Database Engineering. This workshop brings together key concepts, tools, and best practices from each discipline, enabling participants to build scalable, secure, and efficient tech solutions.
 
-## Contents
+## 1. **Contents**
 
 - [Getting Started Coding with DevOps ](coding_and_devops/README.md)
-- [User Guide](usage.md)
+- [User Guide](coding_and_devops/docs/usage.md)
 
 ## 2. **Who Should Attend?**
 - Pursuing Technical Education (like. B-tech,Diploma,Graduation )

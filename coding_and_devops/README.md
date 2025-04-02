@@ -7,6 +7,11 @@
 
 Are you interested in learning how software development and IT operations work together? This beginner-friendly workshop introduces you to the fundamentals of coding and DevOps, equipping you with essential skills to streamline software development and deployment.
 
+## **Contents**
+- [User Guide](docs/usage.md)
+- [Installation Guide](docs/installation.md)
+- [Troubleshooting](docs/troubleshooting.md)
+
 ## **What You'll Learn:**
 - Introduction to Coding: Basics of programming languages, version control, and best practices.
 - DevOps Fundamentals: Understanding CI/CD pipelines, automation, and containerization.
@@ -67,13 +72,6 @@ Are you interested in learning how software development and IT operations work t
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 This repository contains all documentation and instructions for Workshop.
-
-## Contents
-
-- [Getting Started](docs/getting-started.md)
-- [Installation Guide](docs/installation.md)
-- [User Guide](docs/usage.md)
-- [Troubleshooting](docs/troubleshooting.md)
 
 ## Contributing
 
