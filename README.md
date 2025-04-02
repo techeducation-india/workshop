@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Getting Started with Codind & DevOps ](coding_and_devops/getting-started.md)
+- [Getting Started Coding with DevOps ](coding_and_devops/getting-started.md)
 - [User Guide](usage.md)
 
 ## 2. **Who Should Attend?**
