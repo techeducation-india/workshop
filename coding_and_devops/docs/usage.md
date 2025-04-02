@@ -2,10 +2,10 @@
 1. Prerequisites
 Ensure you have the following ready:
 
-- ✅ GitHub Account [Sign up here](https://github.com/)
+- ✅ GitHub Account :[Sign up here](https://github.com/)
 
 - ✅ Git Installed 
 
-- ✅ Install Required Software  [Installation Guide](installation.md)
+- ✅ Install Required Software : [Installation Guide](installation.md)
 
 - ✅ Stable Internet Connection
