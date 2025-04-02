@@ -20,7 +20,7 @@
 - Anyone interested in streamlining software development and deployment
 
 ## 3. **Key Topics Covered:**
-- 1. Introduction & Fundamentals
+- ***Introduction & Fundamentals***
     - Overview of [Workshop Subject]
     - Key concepts and terminology
     - Importance and real-world applications
