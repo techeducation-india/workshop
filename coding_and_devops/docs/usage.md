@@ -6,6 +6,6 @@ Ensure you have the following ready:
 
 - ✅ Git Installed 
 
-- ✅ Install Required Software  [Installation Guide](docs/installation.md)
+- ✅ Install Required Software  [Installation Guide](installation.md)
 
 - ✅ Stable Internet Connection
