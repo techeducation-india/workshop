@@ -7,11 +7,6 @@
 
 Are you interested in learning how software development and IT operations work together? This beginner-friendly workshop introduces you to the fundamentals of coding and DevOps, equipping you with essential skills to streamline software development and deployment.
 
-## **Contents**
-- [User Guide](docs/usage.md)
-- [Installation Guide](docs/installation.md)
-- [Troubleshooting](docs/troubleshooting.md)
-
 ## **What You'll Learn:**
 - Introduction to Coding: Basics of programming languages, version control, and best practices.
 - DevOps Fundamentals: Understanding CI/CD pipelines, automation, and containerization.
@@ -31,6 +26,10 @@ Are you interested in learning how software development and IT operations work t
 | GIT   | v2.49.0  | [Download here](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)  |
 | Docker   | 27.5.1  | [Download here](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*z7jdrt*_ga*MjI0MTMyNzYyLjE2ODI3MDIyMzQ.*_ga_XJWPQMJYHQ*MTc0MzM1OTQ4NC40OC4xLjE3NDMzNTk0ODcuNTcuMC4w)  |
 
+## **Contents**
+- [User Guide](docs/usage.md)
+- [Installation Guide](docs/installation.md)
+- [Troubleshooting](docs/troubleshooting.md)
 
 ## **Key Topics Covered:**
 - 🔥 Introduction to Coding
