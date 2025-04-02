@@ -60,3 +60,21 @@ Are you interested in learning how software development and IT operations work t
 ### 5.**Hands-on: Git,Docker,Jenkins**
 ### 6.**Hands-on: Setting up a basic CI/CD pipeline**
 ### 7.**Hands-on: Deploy and Running applications in Docker**
+
+---
+# Project Documentation
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+This repository contains all documentation and instructions for [Project Name].
+
+## Contents
+
+- [Getting Started](docs/getting-started.md)
+- [Installation Guide](docs/installation.md)
+- [User Guide](docs/usage.md)
+- [Troubleshooting](docs/troubleshooting.md)
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help improve these docs.
