@@ -21,26 +21,22 @@
 
 ## 3. **Key Topics Covered:**
 - ***Introduction & Fundamentals***
-    - Overview of [Workshop Subject]
+    - Overview of Subjects
     - Key concepts and terminology
     - Importance and real-world applications
-
-- 2. Core Skills & Techniques
+- ***Core Skills & Techniques***
     - Step-by-step demonstrations
     - Best practices and industry standards
     - Common pitfalls and how to avoid them
-
-- 3. Hands-on Practical Sessions
+- ***Hands-on Practical Sessions***
     - Interactive exercises and live coding (if applicable)
     - Case studies and problem-solving scenarios
     - Guided projects to reinforce learning
-
-- 4. Advanced Insights & Tools
+- ***Advanced Insights & Tools***
     - Cutting-edge trends and future developments
     - Recommended tools, frameworks, and resources
     - Optimization and performance tips
-
-- 5. Collaboration & Next Steps
+- ***Collaboration & Next Steps***
     - Networking opportunities with peers and experts
     - Q&A and troubleshooting discussions
     - Pathways for further learning and certification
