@@ -4,6 +4,11 @@
 
 #### The TechEducation Workshop is an intensive, hands-on training program designed for professionals in Software Engineering, DevOps, Data Science, AI/ML, and Database Engineering. This workshop brings together key concepts, tools, and best practices from each discipline, enabling participants to build scalable, secure, and efficient tech solutions.
 
+## Contents
+
+- [Getting Started with Codind & DevOps ](coding_and_devops/getting-started.md)
+- [User Guide](usage.md)
+
 ## 2. **Who Should Attend?**
 - Pursuing Technical Education (like. B-tech,Diploma,Graduation )
 - Software Engineer (Freshers)
@@ -11,82 +16,46 @@
 - System Administrators
 - DevOps Engineers
 - IT Managers
+- Data Scientist
 - Anyone interested in streamlining software development and deployment
 
 ## 3. **Key Topics Covered:**
-- Introduction to DevOps
-    - Understanding DevOps culture and practices
-    - Benefits of DevOps for organizations
-- Version Control & Collaboration
-    - Using Git and GitHub/GitLab for code collaboration
-    - Branching strategies and pull requests
-- Continuous Integration (CI) & Continuous Deployment (CD)
-    - Setting up CI/CD pipelines using Jenkins, GitHub Actions, or GitLab CI/CD
-    - Automated testing and deployment strategies
-- Containerization & Orchestration
-    - Docker fundamentals and best practices
-    - Kubernetes for container orchestration
+- 1. Introduction & Fundamentals
+    - Overview of [Workshop Subject]
+    - Key concepts and terminology
+    - Importance and real-world applications
 
-# H1 - Main Title
-## H2 - Section
-### H3 - Subsection
-#### H4 - Smaller Header
+- 2. Core Skills & Techniques
+    - Step-by-step demonstrations
+    - Best practices and industry standards
+    - Common pitfalls and how to avoid them
 
-## 3.Unordered List:
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+- 3. Hands-on Practical Sessions
+    - Interactive exercises and live coding (if applicable)
+    - Case studies and problem-solving scenarios
+    - Guided projects to reinforce learning
 
+- 4. Advanced Insights & Tools
+    - Cutting-edge trends and future developments
+    - Recommended tools, frameworks, and resources
+    - Optimization and performance tips
+
+- 5. Collaboration & Next Steps
+    - Networking opportunities with peers and experts
+    - Q&A and troubleshooting discussions
+    - Pathways for further learning and certification
 ---
-```
-python
-def hello():
-    print("Hello, World!")
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
-## 6. **Links & Images**
-- **Link:** `[Text](https://example.com)`
-- **Image:** `![Alt Text](image_url)`
+## Contents
 
-Example:
-```
-md
-[Visit GitHub](https://github.com)
+- [Getting Started](docs/getting-started.md)
+- [Installation Guide](docs/installation.md)
+- [User Guide](docs/usage.md)
+- [Troubleshooting](docs/troubleshooting.md)
 
-![Logo](https://example.com/logo.png)
+## Contributing
 
-| Name  | Age | Country  |
-|-------|-----|---------|
-| Alice | 25  | USA     |
-| Bob   | 30  | Canada  |
-
-
-![GitHub stars](https://img.shields.io/github/stars/yourrepo.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
-
-<p align="center">
-  <img src="https://example.com/image.png" width="200">
-</p>
-
-
-# MyProject
-
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-
-## Description
-A brief project description.
-
-## Features
-- 🔥 Feature 1
-- 🚀 Feature 2
-- ⚡ Feature 3
----
-## Installation
-```
-bash
-git clone https://github.com/user/repo.git
-cd repo
-npm install
-
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help improve these docs.
